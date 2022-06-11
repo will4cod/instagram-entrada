@@ -11,8 +11,11 @@ body {
     width: 100%;
     min-height: 100vh;
     background-color: rgb(243, 243, 243);
-    margin: 0;
+    margin: auto;
     padding: 0;
+}
+
+.conteudo{
     display: flex;
     justify-content: center;
 }
@@ -131,8 +134,22 @@ body {
 
 /* instagram-home */
 
+header {
+    width: 100vw;
+}
 
+.instagram-menu{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid lightgrey;
+}
 
+.instagram-stories{
+    width: 90vw;
+    border-bottom: 1px solid lightgrey;
+}
 
 /* media queries */
 
