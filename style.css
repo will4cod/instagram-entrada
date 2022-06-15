@@ -142,13 +142,56 @@ header {
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     border-bottom: 1px solid lightgrey;
+    padding: 5px 0;
+}
+
+.instagram-menu img{
+    height: 2rem;
+    cursor: pointer;
+}
+
+/*ajustar */
+.logo img {
+    height: 3rem;
+}
+
+.instagram-menu-options img {
+    margin: 0 5px;
 }
 
 .instagram-stories{
     width: 90vw;
+    margin: auto;
     border-bottom: 1px solid lightgrey;
+}
+
+.instagram-stories-texto{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.instagram-stories-texto p {
+    font-size: 16px;
+    padding: 5px 0;
+}
+
+.storie img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 8px 0;
+    height: 4rem;
+    border-width: 2px;
+    border-style: solid;
+    border-color: transparent;
+    /* border-image: linear-gradient(to right, #ffad1f, #e200e0) 1; */
+    background: linear-gradient(30deg, rgba(255,173,31,1) 0%, rgba(266,0,224,1) 100%);
 }
 
 /* media queries */
