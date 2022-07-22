@@ -36,4 +36,4 @@ Antes de rodar, você vai precisar ter instalado em sua máquina as seguintes fe
 - CSS
 
 ---
-Made with 💙 by will4cod [linkedin](https://www.linkedin.com/in/william-fernandes-4806a0173/){:target="_blank"}
+Made with 💙 by will4cod <a src="https://www.linkedin.com/in/william-fernandes-4806a0173/" target="_blank">linkedin</a>
