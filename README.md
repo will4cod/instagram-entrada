@@ -6,7 +6,7 @@ Feita a tela de continuar logado do instagram
 
 --- 
 
-✔️ Pré-requisitos
+### ✔️ Pré-requisitos
 Antes de rodar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 - Visual studio code
@@ -14,7 +14,7 @@ Antes de rodar, você vai precisar ter instalado em sua máquina as seguintes fe
   
 ---
   
-🏁 Rodando o projeto
+### 🏁 Rodando o projeto
 ```
 # Clone este repositorio
  git clone https://github.com/will4cod/instagram-entrada
@@ -36,4 +36,4 @@ Antes de rodar, você vai precisar ter instalado em sua máquina as seguintes fe
 - CSS
 
 ---
-Made with 💙 by will4cod [linkedin](https://www.linkedin.com/in/william-fernandes-4806a0173/)
+Made with 💙 by will4cod [linkedin](https://www.linkedin.com/in/william-fernandes-4806a0173/){:target="_blank"}
